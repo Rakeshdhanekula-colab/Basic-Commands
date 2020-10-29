@@ -1,0 +1,15 @@
+git init.  //Initialize local git repositary
+git add <file>.   //add file to index
+git status.    //Check status of the working area
+git commit.    //commit changes in index
+git push     //push to remote directory
+git pull.    // pull from remote directory
+git clone.   //clone the data into your machine
+git rm.   //remove a file
+git rm -rf.   //forced remove(used to delete folders)
+git add *.py.  //add all the .py files to index
+git commit -m <file>.  // commit but skip editing stage
+git branch.  //create or show branch
+git checkout -b <name>.  //create branch
+git checkout -d <name>.  //delete branch
+git merge <name>.  //merge branch into the current branch
