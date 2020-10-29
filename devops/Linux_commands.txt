@@ -1,0 +1,45 @@
+alias - let choose your own name to a command
+cat - let access to a file but do not do any changes to the file
+cd - open a directory
+chmod - set permission to a file or folder
+chown - change auther name of a file or folder
+curl - to retrieve information from Uniform Sesource Locators(URLs)
+df - show size, used space and. available space
+diff - compares two text files and show the difference
+echo - print a given string in terminal window
+exit - exit terminal window
+find - track a file when location is unknown
+finger - give short information about a user
+free - gives short summary about memory usage
+grep - search for lines which contain a search patterns
+groups - tells which groups a user is a member of
+gzip - compress the file
+head - print first 10 lines of a text file
+tail - print last 10 lines of a text file
+history - print the history
+kill - terminates a process in the command line
+less - allows to view files without opening an editor
+ls - list of all the files and folders in a directory
+man - displays "Manual Page" for a command
+mkdir - create a directory
+rmdir - delete a directory
+mv - move files and directories to a sprecified directory
+cp - copy files and directories to a sprecified directory
+passwd - change the password for the user
+ping - let you know that you have network connetivity
+ps - runs process
+pwd - print the current working directory
+shutdown - shutdown or restart the linux machine
+ssh - make a connection to a remote linux computer and login to your account
+sudo - perform an action that require user or super user permission
+tar - can create an archieve file that has many files
+top - show real time display of the data relating to your linux machine
+uname - obtain system information regarding the. linux computer you are working on
+w - lists currently loggedin users
+rm - delete file
+touch - create a text file
+locate - locate a file in the system
+nano, vi, jed - text editors
+du - disk usage
+apt-get - install packages
+hostname - to know hostname
