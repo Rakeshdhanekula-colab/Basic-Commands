@@ -1,1 +1,1 @@
-# This respositary is to give information about git, Linux commands
+# This respositary is to give information about git, Linux commands 
